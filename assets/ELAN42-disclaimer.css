@@ -1,0 +1,169 @@
+.elan42-disclaimer-banner {
+	position: fixed;
+	bottom: 0;
+	left: 10%;
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	z-index: 99997;
+	background: rgba(0,0,0,0.8);
+	color: white;
+}
+
+.elan42-disclaimer-banner a {
+	color: white;
+	font-weight: bold;
+}
+
+.elan42-disclaimer-banner a:hover {
+	text-decoration: underline;
+	color: white;
+}
+
+.elan42-disclaimer-banner .elan42-disclaimer-content,
+.elan42-disclaimer-banner .elan42-disclaimer-accept {
+	display: inline-block;
+}
+
+.elan42-disclaimer-banner .elan42-disclaimer-content {
+	padding: 1em;
+	width: 80%;
+}
+
+.elan42-disclaimer-banner .elan42-disclaimer-accept {
+	width: 17%;
+	text-align: center;
+}
+
+.elan42-disclaimer-banner .elan42-disclaimer-accept a {
+	color: white;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+.elan42-disclaimer-banner .elan42-disclaimer-accept a:hover {
+	text-decoration: underline;
+}
+.elan42-disclaimer-pretty-links {
+	margin-top: 0.5em;
+}
+.elan42-disclaimer-pretty-links a {
+	background: black;
+	color: white;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 0.5em 1em;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+.elan42-disclaimer-pretty-links a:hover,
+.elan42-disclaimer-pretty-links a:active,
+.elan42-disclaimer-pretty-links a:focus {
+	background: #222;
+	color: white;
+	text-decoration: none;
+}
+.elan42-disclaimer-pretty-links .elan42-disclaimer-return-button:before,
+.elan42-disclaimer-pretty-links .elan42-disclaimer-policy-button:before,
+.elan42-disclaimer-pretty-links .elan42-disclaimer-conditions-button:before,
+.elan42-disclaimer-pretty-links .elan42-disclaimer-credits-button:before {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	font-size: 12px;
+	margin-right: 5px;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.elan42-disclaimer-pretty-links .elan42-disclaimer-return-button:before {
+	content: "\e9b0"; /* TRUCK */
+}
+.elan42-disclaimer-pretty-links .elan42-disclaimer-policy-button:before {
+	content: "\e98d"; /* KEY */
+}
+.elan42-disclaimer-pretty-links .elan42-disclaimer-conditions-button:before {
+	content: "\e9a8"; /* HAMMER */
+}
+.elan42-disclaimer-pretty-links .elan42-disclaimer-credits-button:before {
+	content: "\e926"; /* TEXT FILE */
+}
+
+.elan42-popup {
+	position: fixed;
+	background: rgba(0,0,0,0.8);
+	z-index: 99998;
+	display: none;
+	top: 0;
+	left: 0;
+}
+
+.elan42-popup .elan42-popup-container {
+	position: absolute;
+	background: white;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	left: 25%;
+	top: 15%;
+	z-index: 99999;
+	overflow: hidden;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-header {
+	background: #d4d4d4;
+	border-bottom: 1px solid #c7c7c7;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-header .elan42-popup-title,
+.elan42-popup .elan42-popup-container .elan42-popup-header .elan42-popup-close {
+	display: inline-block;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-header .elan42-popup-title h1 {
+	margin: 0;
+	font-size: 28px;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-header .elan42-popup-title {
+	width: 85%;
+	margin: 1em 0 1em 1em;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-header .elan42-popup-close {
+	text-align: center;
+	width: 12%;
+	border-left: 1px solid #b4b4b4;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-header .elan42-popup-close a {
+	padding: 0.2em 0.4em 0.2em 0.5em;
+	border-radius: 50%;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	color: #8c8c8c;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-header .elan42-popup-close a:hover {
+	color: #5c5c5c;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-content {
+	margin: 1em;
+	overflow-y: scroll;
+	height: 85%;
+	font-size: 16px;
+}
+
+.elan42-popup .elan42-popup-container .elan42-popup-content h3 {
+	font-size: 21px;
+}

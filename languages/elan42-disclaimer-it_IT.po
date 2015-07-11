@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Disclaimer by ELAN42\n"
+"POT-Creation-Date: 2015-06-08 20:49+0100\n"
+"PO-Revision-Date: 2015-06-08 20:54+0100\n"
+"Last-Translator: \n"
+"Language-Team: ELAN42 <webmaster@elan42.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: inc\n"
+
+#: ELAN42-disclaimer.php:28 inc/admin.php:53
+msgid "Company Name"
+msgstr "Nome Azienda"
+
+#: ELAN42-disclaimer.php:29
+msgid "Privacy Policy"
+msgstr ""
+
+#: ELAN42-disclaimer.php:30
+msgid "Terms &amp; Conditions"
+msgstr ""
+
+#: ELAN42-disclaimer.php:31
+msgid "Return Policy"
+msgstr ""
+
+#: ELAN42-disclaimer.php:32
+msgid "Credits"
+msgstr ""
+
+#: ELAN42-disclaimer.php:33
+msgid "http://www.elan42.com"
+msgstr ""
+
+#: ELAN42-disclaimer.php:34
+msgid "Accetto"
+msgstr ""
+
+#: ELAN42-disclaimer.php:35
+msgid ""
+"Per offrirti un'esperienza di navigazione ottimizzata e in linea con le tue "
+"preferenze, utilizziamo i cookies, anche di terze parti.\n"
+"\t\t\tCliccando questo banner acconsenti al loro impiego in "
+"conformit&agrave; alle nostre {PRIVACY} e {TERMS}."
+msgstr ""
+
+#: ELAN42-disclaimer.php:37
+msgid ""
+"<p>I tuoi dati personali verranno utilizzati da {COMPANY} (titolari del "
+"trattamento dei dati) per inviarti i nostri prodotti eventualmente richiesti "
+"e per la\n"
+"conseguente partecipazione alle nostre iniziative e concorsi oltre che per "
+"il perseguimento degli scopi statutari dell'associazione.\n"
+"I dati verranno trattati con mezzi informatici e potranno essere da te "
+"consultati, modificati, integrati o cancellati, in base all'art 7 del D. Lgs "
+"196/2003\n"
+"(Legge sulla Privacy). I dati non verranno diffusi. Essi potranno essere "
+"comunicati ai soggetti che svolgono attivit&agrave; strumentali ai fini "
+"sopra indicati\n"
+"(etichettatura, spedizione, etc). Il responsabile dei dati &egrave; "
+"{COMPANY}, presso il quale possono essere esercitati i diritti previsti "
+"dall' art 7 del D. Lgs 196/2003\n"
+"ed &egrave; disponibile l'elenco aggiornato dei responsabili dei singoli "
+"trattamenti. In caso di mancata indicazione dei dati richiesti, non potremo "
+"procedere all'invio\n"
+"delle pubblicazioni richieste n&egrave; dar corso al rapporto associativo. "
+"Se tu acconsenti, i dati potranno inoltre essere utilizzati da {DOMAIN} "
+"oltre che per la\n"
+"ricezione della newsletter informativa, per proporti altre pubblicazioni o "
+"servizi rivolti ai consumatori mediante strumenti di comunicazione a "
+"distanza\n"
+"(posta, telefono, sms, mms, posta elettronica, social media). Se non sei "
+"interessato a queste iniziative, ti preghiamo di barrare l'apposita casella "
+"sul\n"
+"modulo di raccolta dati. In ogni caso, tu potrai in qualunque momento e del "
+"tutto gratuitamente chiedere l'aggiornamento, la correzione, l'integrazione\n"
+"dei dati e potrai opporti al loro utilizzo per le suddette finalit&agrave; "
+"scrivendo all'indirizzo sopra indicato.</p>"
+msgstr ""
+
+#: ELAN42-disclaimer.php:49
+msgid ""
+"<h3>INFORMATIVA SUL TRATTAMENTO DEI DATI PERSONALI</h3>\n"
+"<p>I tuoi dati personali verranno utilizzati da {COMPANY} (titolari del "
+"trattamento dei dati) per inviarti i nostri prodotti eventualmente richiesti "
+"e per\n"
+"la conseguente partecipazione alle nostre iniziative e concorsi oltre che "
+"per il perseguimento degli scopi statutari dell'associazione. I dati "
+"verranno\n"
+"trattati con mezzi informatici e potranno essere da te consultati, "
+"modificati, integrati o cancellati, in base all'art 7 del D. Lgs 196/2003 "
+"(Legge sulla Privacy).\n"
+"I dati non verranno diffusi. Essi potranno essere comunicati ai soggetti che "
+"svolgono attivit&agrave; strumentali ai fini sopra indicati (etichettatura, "
+"spedizione, etc).\n"
+"Il responsabile dei dati &egrave; {COMPANY} presso il quale possono essere "
+"esercitati i diritti previsti dall' art 7 del D. Lgs 196/2003 ed &egrave; "
+"disponibile l'elenco\n"
+"aggiornato dei responsabili dei singoli trattamenti. In caso di mancata "
+"indicazione dei dati richiesti, non potremo procedere all'invio delle "
+"pubblicazioni\n"
+"richieste n&eacute; dar corso al rapporto associativo. Se tu acconsenti, i "
+"dati potranno inoltre essere utilizzati da {COMPANY} oltre che per la "
+"ricezione della\n"
+"newsletter informativa, per proporti altre pubblicazioni o servizi rivolti "
+"ai consumatori mediante strumenti di comunicazione a distanza (posta, "
+"telefono, sms,\n"
+"mms, posta elettronica, social media). Sei non sei interessato a queste "
+"iniziative, ti preghiamo di barrare l'apposita casella sul modulo di "
+"raccolta dati.\n"
+"In ogni caso, tu potrai in qualunque momento e del tutto gratuitamente "
+"chiedere l'aggiornamento, la correzione, l'integrazione dei dati e potrai "
+"opporti al\n"
+"loro utilizzo per le suddette finalit&agrave; scrivendo all'indirizzo sopra "
+"indicato.</p>\n"
+"<h3>TERMINE E CONDIZIONE DEL SERVIZIO</h3>\n"
+"<p>Tutti gli utenti sono tenuti a prendere attenta visione dei Termini e "
+"delle Condizioni del Servizio per poter utilizzare questo sito e usufruire "
+"dei servizi e\n"
+"prodotti offerti da {DOMAIN}. Il presente sito web &egrave; gestito da "
+"{COMPANY}. L'accesso a questo sito ed ai suoi servizi sono soggetti ai "
+"seguenti termini e\n"
+"condizioni d'uso. La societ&agrave; si riserva il diritto di modificare, "
+"variare o cambiare i presenti termini a sua sola discrezione e l'utente "
+"accetta di rimanere\n"
+"vincolato a tali modifiche, variazioni o cambiamenti.</p>\n"
+"<h3>CONTENUTO</h3>\n"
+"<p>I contenuti attuali o futuri del sito: testi, commenti, fotografie, "
+"illustrazioni, video, marchi, loghi, nomi di dominio, nomi commerciali e "
+"qualsiasi\n"
+"altro materiale coperto da diritto d'autore e/o ogni altra forma di "
+"propriet&agrave; intellettuale sono di propriet&agrave; di {COMPANY} che "
+"&egrave; stata autorizzata al loro utilizzo.\n"
+"Tale materiale &egrave; protetto dall'uso non autorizzato, dalla copia e "
+"dalla diffusione secondo quanto previsto dalle leggi vigenti in materia. Per "
+"poter continuare\n"
+"a mantenere le nostre informazioni e la nostra immagine libere e "
+"indipendenti da condizionamenti economici e politici, ed evitarne utilizzi "
+"per finalit&agrave; non vicine\n"
+"al nostro scopo associativo, abbiamo la necessit&agrave; di tutelare i "
+"nostri contenuti e la nostra grafica distintiva (prima di tutto, il logo) da "
+"usi indiscriminati. \n"
+"E' vietato utilizzare copie parziali o totali del sito e delle informazioni "
+"ivi contenute in una rete o con un prodotto, un sistema, un'applicazione "
+"senza il\n"
+"consenso preliminare scritto di {COMPANY} &egrave; espressamente vietata "
+"qualsiasi consultazione, copia o riproduzione totale o parziale del sito a "
+"fini diversi da\n"
+"quelli previsti nel presente contratto. Per questo ti chiediamo di "
+"collaborare ad un uso corretto dei nostri materiali, segnalandocene "
+"l'utilizzo e/o\n"
+"richiedendone l'autorizzazione mediante i seguenti moduli.\n"
+"Desidero inserire nel mio sito il logo o un banner di {DOMAIN}\n"
+"Desidero utilizzare i contenuti di {COMPANY} sul mio sito o su una "
+"newsletter\n"
+"{DOMAIN} rispetta i diritti di propriet&agrave; intellettuale e/o "
+"industriale degli altri. Ove si ritenga che un'opera sia stata copiata o "
+"\"trattata\" da terzi\n"
+"all'interno del Servizio, in modo da integrare una violazione delle norme "
+"sul diritto d'autore, si prega di fornire a {DOMAIN} tutte le informazioni "
+"possibili\n"
+"a riguardo al fine di poter intervenire tempestivamente.</p>"
+msgstr ""
+
+#: ELAN42-disclaimer.php:211
+msgid "ELAN42 Disclaimer Widget"
+msgstr ""
+
+#: ELAN42-disclaimer.php:212
+msgid ""
+"Add's some links to the position of the widget to show the Credits, the "
+"Privacy Policy and the terms and conditions. If\n"
+"\t\t\t\twoocommerce is active it shows the Return Policy aswell."
+msgstr ""
+"Aggiunge alcuni link nella posizione del widget per mostrare i Crediti, la "
+"Politica sulla Privacy e per i Termini e Condizioni. Se è installato "
+"Woocommerce anche i Diritti di Recesso saranno mostrati."
+
+#: ELAN42-disclaimer.php:242
+msgid ""
+"You can find the options under Tools->Disclaimer. Please be sure to visit it "
+"and save at least the default values. Thank you."
+msgstr ""
+"Le impostazioni possono essere trovato in Strumenti -> Disclaimer. Invitiamo "
+"a visitare almeno una volta questa pagina e salvare i valori di default. "
+"Grazie."
+
+#: inc/admin.php:20 inc/admin.php:50
+msgid "Disclaimer by ELAN42"
+msgstr "Disclaimer by ELAN42"
+
+#: inc/admin.php:21
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+#: inc/admin.php:56
+msgid ""
+"Name of your company, inluding company extension (for instance \"srl\")."
+msgstr ""
+"Nome della tua azienda, incluso il tipo di societa (esempio 'Nome Azienda "
+"srl')."
+
+#: inc/admin.php:59
+msgid "Privacy Policy display title"
+msgstr "Titolo link per Politica sulla Privacy"
+
+#: inc/admin.php:62
+msgid ""
+"This is the text to display as Privacy Policy. Defaults to \"Privacy Policy\""
+msgstr ""
+"Questo è il testo da mostrare per il link Politica sulla Privacy. Valore "
+"iniziale \"Privacy Policy\""
+
+#: inc/admin.php:66
+msgid "Terms &amp; Conditions display title"
+msgstr "Titolo link per Termini e Condizioni"
+
+#: inc/admin.php:69
+msgid ""
+"This is the text to display as Terms &amp; Conditions. Defaults to \"Terms "
+"&amp; Conditions\""
+msgstr ""
+"Questo è il testo da mostrare per il link Termini e condizioni. Valore "
+"iniziale \"Terms and Conditions\""
+
+#: inc/admin.php:73
+msgid "Return Policy display title"
+msgstr "Titolo link per Diritto di recesso"
+
+#: inc/admin.php:76
+msgid ""
+"This is the text to display as Return Policy. Defaults to \"Return Policy\""
+msgstr ""
+"Questo è il testo da mostrare per il link Diritti di recesso. Valore "
+"iniziale \"Return Policy\""
+
+#: inc/admin.php:80
+msgid "Credits display title"
+msgstr "Titolo link per Crediti"
+
+#: inc/admin.php:83
+msgid "This is the text to display as Credits. Defaults to \"Credits\""
+msgstr ""
+"Questo è il testo da mostrare per il link Crediti. Valore iniziale \"Credits"
+"\""
+
+#: inc/admin.php:87
+msgid "Credits link url"
+msgstr "Indirizzo per Crediti"
+
+#: inc/admin.php:90
+msgid "This is the url for the credits link. Defaults to the Elan42 webpage."
+msgstr ""
+"Questo è l'indirizzo per il link Crediti. Il valore iniziale è la homepage "
+"di ELAN42"
+
+#: inc/admin.php:94
+msgid "Agree Text"
+msgstr "Testo \"Accetto\""
+
+#: inc/admin.php:97
+msgid "This is the text to show on the agree button. Defaults to \"I Agree\"."
+msgstr ""
+"Questo è il testo che verrà mostrato per il tasto \"Accetto\". Valore "
+"iniziale: \"I Agree\""
+
+#: inc/admin.php:101
+msgid "Hover Box Text"
+msgstr "Testo Box accettazione Cookie"
+
+#: inc/admin.php:104
+msgid ""
+"This is the text that will be displayed in the black hover box. To insert "
+"the Privacy Policy link please insert {POLICY}, in the output it will be "
+"replaced with the text you defined above. The same for the terms and "
+"conditions, place {TERMS}."
+msgstr ""
+"Questo è il testo che viene mostrato nel Banner per l'accettazione dei "
+"Cookie. Per inserire il link per la Politica sulla Privacy inserire "
+"{POLICY}. Per Termini e Condizioni {TERMS}."
+
+#: inc/admin.php:107
+msgid "Privacy Policy Text"
+msgstr "Testo Politica sulla Privacy"
+
+#: inc/admin.php:110
+msgid ""
+"In this field you can add the text to insert into the Privacy Policy Popup. "
+"You can use your domanin (www.yoursite.com) by placing {DOMAIN}, and your "
+"company name by adding {COMPANY}. There will be replaced with the right "
+"value. You can use HTML"
+msgstr ""
+"In questo campo puoi inserire il contenuto per il popup Politica sulla "
+"Privacy. Per inserire il dominio del tuo sito (www.iltuosito.it) puoi "
+"inserire {DOMAIN}, e per il nome della tua azienda puoi usare {COMPANY}. "
+"HTML amesso."
+
+#: inc/admin.php:112
+msgid "Terms &amp; Conditions Text"
+msgstr "Testo Termini e Condizioni"
+
+#: inc/admin.php:115
+msgid ""
+"In this field you can add the text to insert into the Terms &amp; Conditions "
+"Popup. You can use your domanin (www.yoursite.com) by placing {DOMAIN}, and "
+"your company name by adding {COMPANY}. There will be replaced with the right "
+"value. You can use HTML"
+msgstr ""
+"In questo campo puoi inserire il contenuto per il popup Termini e "
+"Condizioni. Per inserire il dominio del tuo sito (www.iltuosito.it) puoi "
+"inserire {DOMAIN}, e per il nome della tua azienda puoi usare {COMPANY}. "
+"HTML amesso."
+
+#: inc/admin.php:117
+msgid "Return Policy Text"
+msgstr "Testo Diritto di recesso"
+
+#: inc/admin.php:120
+msgid ""
+"In this field you can add the text to insert into the Return Policy Popup. "
+"You can use your domanin (www.yoursite.com) by placing {DOMAIN}, and your "
+"company name by adding {COMPANY}. There will be replaced with the right "
+"value. You can use HTML"
+msgstr ""
+"In questo campo puoi inserire il contenuto per il popup Diritto di Recesso. "
+"Per inserire il dominio del tuo sito (www.iltuosito.it) puoi inserire "
+"{DOMAIN}, e per il nome della tua azienda puoi usare {COMPANY}. HTML amesso."
+
+#: inc/admin.php:161
+msgid ""
+"Here you can find the options for Disclaimer by ELAN42. Every field has it's "
+"own explanation. Please follow them to set-up the plugin in the right way. "
+"Thank you."
+msgstr ""
+"Qui puoi trovare le impostazioni per Disclaimer by ELAN42. Ogni campo ha la "
+"propria spiegazione. Perfavor seguile per impostare correttamente il pugin. "
+"Grazie."
+
+#: inc/admin.php:183
+msgid ""
+"You can use the following shortcodes and functions to show the links in your "
+"site:"
+msgstr ""
+"Puoi utilizzare i seguenti shortcode e funzioni php per mostrare i link nel "
+"tuo sito:"
+
+#: inc/admin.php:185
+msgid "Use this shortcode to echo (show) the links."
+msgstr "Utilizza questo shortcode per mostrare (echo) i link."
+
+#: inc/admin.php:186
+msgid ""
+"If you experience problems with the shortcode above, use this one. It "
+"returns the links instead of echo them."
+msgstr ""
+"Se lo shortcode sopra da problemi nella visualizzazione del sito, utilizzare "
+"questo shortcode. Utilizza la funziona php return invece di echo."
+
+#: inc/admin.php:187
+msgid "Use this php function to echo (show) the links."
+msgstr ""
+"Utilizza questa funzione php per mostrare i link tramite la funzione echo."
+
+#: inc/admin.php:188
+msgid "Use this php function to return the links."
+msgstr ""
+"Utilizza questa funzione php \"ritornare\" i link tramite la funzione return."
+
+#~ msgid "ELAN42 Credits Widget"
+#~ msgstr "ELAN42 Widget Crediti"

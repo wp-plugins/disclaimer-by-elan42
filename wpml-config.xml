@@ -1,0 +1,17 @@
+<wpml-config>
+	<admin-texts>
+		<key name="elan42_disclaimer_options">
+			<key name="company_name" />
+			<key name="policy_title" />        
+			<key name="terms_title" />
+			<key name="return_title" />
+			<key name="credits_title" />
+			<key name="credits_url" />
+			<key name="agree_text" />
+			<key name="hover_text" />
+			<key name="policy_text" />
+			<key name="terms_text" />
+			<key name="return_text" />
+		</key>
+	</admin-texts>
+</wpml-config>
